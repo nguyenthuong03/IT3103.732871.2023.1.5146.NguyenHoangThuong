@@ -1,5 +1,6 @@
 import java.util.Arrays;
 
+//Nguyen Hoang Thuong - 20215146
 public class bai6_5 {
     public static void main(String[] args) {
         int[] array = { 1789, 2035, 1899, 1456, 2013 };
