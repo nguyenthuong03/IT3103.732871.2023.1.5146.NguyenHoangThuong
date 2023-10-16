@@ -1,4 +1,5 @@
 import javax.swing.JOptionPane;
+
 //Nguyen Hoang Thuong - 20215146
 public class bai2_2_4 {
     public static void main(String[] args) {

@@ -11,6 +11,6 @@ public class bai6_2 {
         System.out.println("Nguyen Hoang Thuong - How tall are you(m)?");
         double dHeight = keyboard.nextDouble();
         // Nguyen Hoang Thuong-20215146
-        System.out.println("Mrs/Ms." + strName + " ," + iAge + "year old" + "Your height is" + dHeight + ".");
+        System.out.println("Mrs/Ms." + strName + " ," + iAge + "year old" + "Your height is" + dHeight + "m .");
     }
 }
